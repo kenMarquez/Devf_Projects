@@ -4,31 +4,17 @@
 (function () {
     'use strict'
 
-    var palindromo = {
-        controller: praCtrl,
-        templateUrl: 'palindromo.html',
-    }
-
-    angular
-        .module('practica3', [])
-        .component('palindromo', palindromo);
-
-    function praCtrl() {
-        var prac = this;
-        prac.name = 'Incerta Tu texto'
-        $scope.validate = function (text) {
-            console.log(text);
-        }
-
-    }
-
     var app = angular.module('myApp', []);
     app.controller('myCtrl', function ($scope) {
         $scope.mytext = "";
         $scope.validate = function () {
+
             var cadena = $scope.mytext;
             var nuevaCadena;
 
+            if (cadena.trim().length == 0) {
+                return false;
+            }
             for (var i = 0; i < cadena.length; i++) {
                 console.log(cadena.charAt(i));
                 console.log(cadena.charAt(cadena.length - (i + 1)));
