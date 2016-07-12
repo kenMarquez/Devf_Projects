@@ -1,22 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6435da2c-7d97-461c-995f-c3c28308c4c7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana2/Youtube/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana2/Youtube/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Repaso/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Repaso/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Repaso/navbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Repaso/parser/navbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Rutas/app/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Rutas/app/libs/angular-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Rutas/app/libs/angular-route.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Rutas/app/libs/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Rutas/app/libs/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Rutas/app/routes/routes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Rutas/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Semana2/CardComponent/index.html" afterPath="$PROJECT_DIR$/Semana2/CardComponent/index.html" />
+    <list default="true" id="6435da2c-7d97-461c-995f-c3c28308c4c7" name="Default" comment="Se agrego el Ejemplo pokemonApi">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Chat/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Chat/app/chat_componet/chat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Chat/app/chat_componet/chat_component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Chat/app/factory/factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/Chat/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/components/card.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/components/navbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/libs/angular-route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/libs/angular-route.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/libs/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/libs/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/routes/index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/routes/navbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/routes/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/components/character_component/character.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/components/character_component/component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/components/planet_component/planet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/components/planet_component/planet_component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/factory/factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/libs/angular-route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/libs/angular-route.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/libs/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/libs/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/routes/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/EjercicioRoutes2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/PokemonAPI/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/PokemonAPI/app/components/pokemon_component/pokemon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/PokemonAPI/app/components/pokemon_component/pokemon_component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/PokemonAPI/app/factory/factory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/PokemonAPI/app/routes/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana3/PokemonAPI/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana4/Login/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana4/Login/app/components/add_component/add.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana4/Login/app/components/add_component/add.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana4/Login/app/components/list_component/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana4/Login/app/components/list_component/list_component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Semana4/Login/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Semana2/PalindromoComponent/app.js" afterPath="$PROJECT_DIR$/Semana2/PalindromoComponent/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Semana3/Rutas/index.html" afterPath="$PROJECT_DIR$/Semana3/Rutas/index.html" />
     </list>
     <ignored path="Devf_Projects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,18 +65,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Semana3/Rutas/index.html">
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Semana4/Login/app/components/list_component/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="165">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_component.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Semana4/Login/app/components/list_component/list_component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Semana4/Login/app/components/add_component/add.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Semana4/Login/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Semana3/Rutas/app/app.js">
+        <entry file="file://$PROJECT_DIR$/Semana4/Login/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
@@ -59,14 +117,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Semana3/Rutas/app/routes/routes.js">
+      <file leaf-file-name="add.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Semana4/Login/app/components/add_component/add.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#38#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="164">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,23 +143,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Semana1/HolaMundo.js" />
-        <option value="$PROJECT_DIR$/Semana1/hola.txt" />
-        <option value="$PROJECT_DIR$/Semana1/ejemplo/package.json" />
-        <option value="$PROJECT_DIR$/Semana1/Async.js" />
-        <option value="$PROJECT_DIR$/Semana1/ejemplo/hola.txt" />
-        <option value="$PROJECT_DIR$/Semana1/ejemplo/index.js" />
-        <option value="$PROJECT_DIR$/Semana1/promesa.js" />
-        <option value="$PROJECT_DIR$/Semana1/Ejercicios.js" />
-        <option value="$PROJECT_DIR$/Semana2/carg.html" />
-        <option value="$PROJECT_DIR$/Semana2/app.js" />
-        <option value="$PROJECT_DIR$/Semana2/index.html" />
-        <option value="$PROJECT_DIR$/Semana2/card.html" />
         <option value="$PROJECT_DIR$/Semana2/PalindromoComponent/input.html" />
         <option value="$PROJECT_DIR$/Semana2/CardComponent/app.js" />
         <option value="$PROJECT_DIR$/Semana2/PalindromoComponent/palindromo.html" />
         <option value="$PROJECT_DIR$/Semana2/PalindromoComponent/index.html" />
-        <option value="$PROJECT_DIR$/Semana2/PalindromoComponent/app.js" />
         <option value="$PROJECT_DIR$/Semana2/Youtube/app.js" />
         <option value="$PROJECT_DIR$/Semana2/Youtube/index.html" />
         <option value="$PROJECT_DIR$/Semana3/Repaso/app.js" />
@@ -113,9 +156,44 @@
         <option value="$PROJECT_DIR$/Semana2/CardComponent/index.html" />
         <option value="$PROJECT_DIR$/Semana3/CardComponent/index.html" />
         <option value="$PROJECT_DIR$/Semana3/Rutas2/index.html" />
-        <option value="$PROJECT_DIR$/Semana3/Rutas/index.html" />
         <option value="$PROJECT_DIR$/Semana3/Rutas/app/app.js" />
         <option value="$PROJECT_DIR$/Semana3/Rutas/app/routes/routes.js" />
+        <option value="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/compounents/card.html" />
+        <option value="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/compounents/navbar.html" />
+        <option value="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/routes/index2.html" />
+        <option value="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/routes/routes.js" />
+        <option value="$PROJECT_DIR$/Semana3/EjercicioRoutes/index.html" />
+        <option value="$PROJECT_DIR$/Semana3/Rutas/index.html" />
+        <option value="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/app.js" />
+        <option value="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/components/character_component/character.html" />
+        <option value="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/factory/factory.js" />
+        <option value="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/components/planet_component/planet_component.js" />
+        <option value="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/components/planet_component/planet.html" />
+        <option value="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/components/character_component/component.js" />
+        <option value="$PROJECT_DIR$/Semana3/Chat/app/factory/factory.js" />
+        <option value="$PROJECT_DIR$/Semana3/Chat/index.html" />
+        <option value="$PROJECT_DIR$/Semana3/Chat/app/chat_componet/chat_component.js" />
+        <option value="$PROJECT_DIR$/Semana3/Chat/app/chat_componet/chat.html" />
+        <option value="$PROJECT_DIR$/Semana3/EjercicioRoutes2/index.html" />
+        <option value="$PROJECT_DIR$/Semana3/Chat/app/app.js" />
+        <option value="$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/routes/routes.js" />
+        <option value="$PROJECT_DIR$/Semana2/PalindromoComponent/app.js" />
+        <option value="$PROJECT_DIR$/Semana3/PokemonAPI/app/components/pokemon_component/pokemon_component.js" />
+        <option value="$PROJECT_DIR$/Semana3/PokemonAPI/app/app.js" />
+        <option value="$PROJECT_DIR$/Semana3/PokemonAPI/app/components/pokemon_component/pokemon.html" />
+        <option value="$PROJECT_DIR$/Semana3/PokemonAPI/app/factory/factory.js" />
+        <option value="$PROJECT_DIR$/Semana3/PokemonAPI/app/routes/routes.js" />
+        <option value="$PROJECT_DIR$/Semana3/PokemonAPI/index.html" />
+        <option value="$PROJECT_DIR$/Semana3/Semana4/Login/app/app.js" />
+        <option value="$PROJECT_DIR$/Semana3/Semana4/Login/app/components/add_component/add.html" />
+        <option value="$PROJECT_DIR$/Semana3/Semana4/Login/app/components/add_component/add.js" />
+        <option value="$PROJECT_DIR$/Semana3/Semana4/Login/index.html" />
+        <option value="$PROJECT_DIR$/Semana4/Login/app/app.js" />
+        <option value="$PROJECT_DIR$/Semana4/Login/app/components/list_component/list_component.html" />
+        <option value="$PROJECT_DIR$/Semana4/Login/index.html" />
+        <option value="$PROJECT_DIR$/Semana4/Login/app/components/list_component/list_component.js" />
+        <option value="$PROJECT_DIR$/Semana4/Login/app/components/list_component/list.html" />
+        <option value="$PROJECT_DIR$/Semana4/Login/app/components/add_component/add.js" />
       </list>
     </option>
   </component>
@@ -155,7 +233,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -174,11 +251,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Semana3" />
+              <option name="myItemId" value="Semana4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rutas" />
+              <option name="myItemId" value="Login" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -192,11 +269,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Semana3" />
+              <option name="myItemId" value="Semana4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rutas" />
+              <option name="myItemId" value="Login" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -214,11 +291,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Semana3" />
+              <option name="myItemId" value="Semana4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rutas" />
+              <option name="myItemId" value="Login" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -226,7 +303,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
+              <option name="myItemId" value="components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -240,7 +317,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Semana3" />
+              <option name="myItemId" value="Semana4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="add_component" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -256,6 +349,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,13 +364,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Semana3/PokemonAPI" />
+      <recent name="$PROJECT_DIR$/Semana3/EjercicioRoutes2" />
+      <recent name="$PROJECT_DIR$/Semana3/EjercicioRoutes/app/routes" />
+      <recent name="$PROJECT_DIR$/Semana3/EjercicioRoutes" />
       <recent name="$PROJECT_DIR$/Semana3/Rutas2/app" />
-      <recent name="$PROJECT_DIR$/Semana3" />
-      <recent name="$PROJECT_DIR$/Semana3/Rutas" />
-      <recent name="$PROJECT_DIR$/Semana3/Rutas/app/libs" />
-      <recent name="$PROJECT_DIR$/Semana3/Rutas/app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Semana3/PokemonAPI/app" />
       <recent name="$PROJECT_DIR$/Semana3/Rutas2/app" />
       <recent name="$PROJECT_DIR$/Semana3/Rutas/app" />
       <recent name="$PROJECT_DIR$/Semana2/CardComponent" />
@@ -369,6 +465,9 @@
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_CLASSES,ALPHA_COMPARATOR" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6435da2c-7d97-461c-995f-c3c28308c4c7" name="Default" comment="" />
@@ -378,7 +477,15 @@
       <updated>1466212749121</updated>
       <workItem from="1466212750290" duration="3305000" />
       <workItem from="1466641550588" duration="14218000" />
-      <workItem from="1467678172066" duration="7230000" />
+      <workItem from="1467678172066" duration="7485000" />
+      <workItem from="1467765282766" duration="149000" />
+      <workItem from="1467765451501" duration="137000" />
+      <workItem from="1467765604988" duration="122000" />
+      <workItem from="1467765774657" duration="1408000" />
+      <workItem from="1467851019564" duration="4365000" />
+      <workItem from="1467941034701" duration="4039000" />
+      <workItem from="1468023945526" duration="5933000" />
+      <workItem from="1468285033066" duration="5153000" />
     </task>
     <task id="LOCAL-00001" summary="Clases Back Alex">
       <created>1466215488535</created>
@@ -405,20 +512,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24753000" />
+    <option name="totallyTimeSpent" value="46314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416997" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30547947" sideWeight="0.50277996" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30810094" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30737704" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30464482" sideWeight="0.49722" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997344" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -436,16 +543,24 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30810094" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30810094" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30810094" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997344" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -454,7 +569,9 @@
     <MESSAGE value="Clases Back Alex" />
     <MESSAGE value="Se creo carpeta semana 2&#10;Creamos un ejemplo de un component en javascript&#10;" />
     <MESSAGE value="Se creo el componente palindromo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se creo el componente palindromo" />
+    <MESSAGE value="Se creo un ejemplo de repaso de Angular.js&#10;&#10;Se creo un ejemplo de routes" />
+    <MESSAGE value="Se agrego el Ejemplo pokemonApi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agrego el Ejemplo pokemonApi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -463,230 +580,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Semana2/Youtube/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana2/Youtube/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana2/PalindromoComponent/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="26" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/HolaMundo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/Ejercicios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/Async.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/promesa.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/ejemplo/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/ejemplo/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/ejemplo/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/ejemplo/hola.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/hola.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/ejemplo/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="4516" column="0" selection-start-line="4516" selection-start-column="0" selection-end-line="4516" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana2/CardComponent/card.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana2/CardComponent/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/HolaMundo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/Async.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/Ejercicios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana1/promesa.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana2/Youtube/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana2/Youtube/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana3/Repaso/parser/navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana2/PalindromoComponent/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana3/Repaso/navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana2/PalindromoComponent/palindromo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana3/Rutas/angular.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana2/PalindromoComponent/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana3/Rutas/app/angular.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/Rutas/app/angular.js" />
     <entry file="file://$PROJECT_DIR$/Semana3/Rutas/app/libs/angular.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -694,7 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -702,39 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-690">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1466010486000" expanded="true" signature="13319:14066" ph="..." />
-            <marker date="1466010486000" expanded="true" signature="14606:14759" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="14841:14950" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="15035:15147" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="15219:15977" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="15286:15683" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
-            <marker date="1466010486000" expanded="true" signature="15398:15668" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="15497:15651" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="15735:15842" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
-            <marker date="1466010486000" expanded="true" signature="16135:16722" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="30692:31406" ph="..." />
-            <marker date="1466010486000" expanded="true" signature="31017:31087" ph="..." />
-            <marker date="1466010486000" expanded="true" signature="31465:31570" ph="..." />
-            <marker date="1466010486000" expanded="true" signature="31632:31794" ph="..." />
-            <marker date="1466010486000" expanded="true" signature="31878:32064" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="32088:32123" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="32180:32478" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="32511:32543" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="32591:32620" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="32668:32701" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="32831:33414" ph="[...]" />
-            <marker date="1466010486000" expanded="true" signature="32927:33413" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="32997:33141" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
-            <marker date="1466010486000" expanded="true" signature="33196:33349" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
-            <marker date="1466010486000" expanded="true" signature="33450:33684" ph="[...]" />
-            <marker date="1466010486000" expanded="true" signature="33544:33683" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="33720:33850" ph="[...]" />
-            <marker date="1466010486000" expanded="true" signature="33760:33849" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="33889:34022" ph="[...]" />
-            <marker date="1466010486000" expanded="true" signature="33929:34021" ph="{...}" />
-            <marker date="1466010486000" expanded="true" signature="34159:34692" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -742,15 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Semana3/Repaso/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="92" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,43 +613,275 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Semana3/Rutas/app.js">
+    <entry file="file://$PROJECT_DIR$/Semana3/Rutas/app.js" />
+    <entry file="file://$PROJECT_DIR$/Semana3/Rutas2/app/libs/angular.js" />
+    <entry file="file://$PROJECT_DIR$/Semana3/Rutas2/index.html" />
+    <entry file="file://$PROJECT_DIR$/Semana3/Rutas2/app/app.js" />
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes/app/libs/angular.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="-1125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Semana3/Rutas2/app/libs/angular.js">
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes/app/components/card.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/Repaso/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/components/planet_component/planet_component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/components/planet_component/planet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/Chat/app/chat_componet/chat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/Chat/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/libs/angular.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Semana3/Rutas2/index.html">
+    <entry file="file://$PROJECT_DIR$/Semana3/Chat/app/factory/factory.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Semana3/Rutas2/app/app.js">
+    <entry file="file://$PROJECT_DIR$/Semana3/Chat/app/chat_componet/chat_component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="270">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/components/character_component/character.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/components/character_component/component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/Chat/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/Rutas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana2/PalindromoComponent/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana2/PalindromoComponent/palindromo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana2/PalindromoComponent/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/Rutas/app/routes/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Semana3/Rutas/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes/app/routes/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes/app/routes/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes/app/routes/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes/app/components/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/routes/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/EjercicioRoutes2/app/factory/factory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/PokemonAPI/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/PokemonAPI/app/factory/factory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/PokemonAPI/app/routes/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/PokemonAPI/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/PokemonAPI/app/components/pokemon_component/pokemon_component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana3/PokemonAPI/app/components/pokemon_component/pokemon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana4/Login/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
@@ -804,21 +891,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Semana3/Rutas/index.html">
+    <entry file="file://$PROJECT_DIR$/Semana4/Login/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="305">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Semana3/Rutas/app/routes/routes.js">
+    <entry file="file://$PROJECT_DIR$/Semana4/Login/app/components/list_component/list_component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#38#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="74">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana4/Login/app/components/list_component/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana4/Login/app/components/add_component/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Semana4/Login/app/components/add_component/add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>

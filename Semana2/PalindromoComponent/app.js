@@ -5,6 +5,8 @@
     'use strict'
 
     var app = angular.module('myApp', []);
+    
+    
     app.controller('myCtrl', function ($scope) {
         $scope.mytext = "";
         $scope.validate = function () {

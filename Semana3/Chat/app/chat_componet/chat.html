@@ -1,0 +1,19 @@
+<div>
+    <div class="row" style="margin: 60px">
+        <form ng-submit="$ctrl.addMessage()" class="col s12">
+            <input type="text" ng-model="$ctrl.user" placeholder="user">
+            <input type="text" ng-model="$ctrl.message" placeholder="message">
+            <button class="btn waves-effect waves-light right" type="submit" name="action"
+                    style="margin-top: 30px">Submit
+                <i class="material-icons right">send</i>
+            </button>
+
+        </form>
+    </div>
+    <div ng-repeat="message in $ctrl.messages" class="center-align">
+        <span>{{message.user}}: </span>:{{message.message}}
+    </div>
+
+</div>
+
+lorem
