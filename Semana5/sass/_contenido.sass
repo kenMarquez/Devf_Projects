@@ -1,0 +1,33 @@
+$color-div: #00BCD4
+$color-secundary: #0097A7
+$color-light: #B2EBF2
+
+=border-radius($radius)
+  -webkit-border-radius: $radius
+  -moz-border-radius: $radius
+  -ms-border-radius: $radius
+  border-radius: $radius
+
+*
+  padding: 0
+  margin: 0
+
+body
+  background: $color-div
+
+main
+  section
+    padding: 0% 5%
+    article
+      margin-top: 10%
+      margin-bottom: 2%
+      h2
+        display: flex
+        justify-content: center
+        align-items: center
+        color: white
+      p
+        background: white
+        padding: 2%
+        +border-radius(3px)
+
